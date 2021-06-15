@@ -1,0 +1,44 @@
+body {
+
+    background-image: url(https://i.redd.it/aqjamwk67yx31.jpg);
+    background-position: center;
+    background-size: 1400px;
+      
+}
+body h2{
+    color: rgb(34, 70, 71);
+    font-family: EuclidBold;
+    font-weight: bolder;
+    font-size: 80px;
+    margin-top: 20px;
+    text-align: center;
+}
+
+.card img {
+
+    border-radius: 10px;
+    height: 30vh;
+    
+}
+
+.container {
+
+    margin-top: 50px;
+}  
+
+main>div>button {
+    margin: 25px;
+          
+}
+
+#nomePersonagem, #nomePersonagem1,#nomePersonagem2,#nomePersonagem3  {
+    color: black;
+    font-family: Marker Felt, fantasy;
+    font-size: 20px;  
+    text-align: center;
+    
+    
+}
+
+
+
